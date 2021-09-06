@@ -12,7 +12,7 @@ export default [
   {
     title: "Shipt",
     description:
-      'Loading ...',
+      'Loading',
     skills: [
       "Javascript",
       "Typescript",
