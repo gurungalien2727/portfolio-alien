@@ -1,9 +1,9 @@
 import preventCorona from "../images/pc.png";
 import covidMap from "../images/ma.png";
-//import virtualQueue from "../images/vq.png";
+import virtualQueue from "../images/vq.png";
 import platypus from "../images/pa.png";
 import ecomm from "../images/ea.png";
-//import chefItUp from "../images/ca.png";
+import chefItUp from "../images/ca.png";
 
 // image can be any size. just make sure it is close to a 1:1 ratio - a square.
 
@@ -19,7 +19,7 @@ export default [
       "MSSQL",
       "Microsoft Azure",
     ],
-    image: '',
+    image: chefItUp,
     links: {
       github: "https://github.com/gurungalien2727/chefitup_app",
       preview: "https://vimeo.com/503667080",
@@ -53,7 +53,7 @@ export default [
       "FireBase",
       "Geofencing API",
     ],
-    image: '',
+    image: virtualQueue,
     links: {
       github: "https://github.com/gurungalien2727/hackShipIt",
       preview: "https://devpost.com/software/shopsafe-fdc1xo",
