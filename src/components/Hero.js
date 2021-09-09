@@ -7,9 +7,8 @@ const Hero = () => {
     <div className="hero-container">
       <Typewriter className="hero-title" text="Alien Gurung" />
       <div className="hero-description">
-        Currently studying at Troy University, I'm looking for
-        internships, which would allow me to first refine my technical skills
-        and my educational qualities.
+        I'm a 4th year undergraduate student studying Computer Science at Troy University. I'm looking for
+        full time new grad or entry level opportunities in Software Develpment / Software Engineering roles.
         <br />
         Check out my <Scrollchor to="#projects">side-projects</Scrollchor>{" "}
         below.
