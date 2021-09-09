@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio-alien/static/css/main.4499fbd1.chunk.css",
-    "main.js": "/portfolio-alien/static/js/main.d9868080.chunk.js",
-    "main.js.map": "/portfolio-alien/static/js/main.d9868080.chunk.js.map",
+    "main.js": "/portfolio-alien/static/js/main.93e00b32.chunk.js",
+    "main.js.map": "/portfolio-alien/static/js/main.93e00b32.chunk.js.map",
     "runtime-main.js": "/portfolio-alien/static/js/runtime-main.4766f1d7.js",
     "runtime-main.js.map": "/portfolio-alien/static/js/runtime-main.4766f1d7.js.map",
-    "static/js/2.b619dd07.chunk.js": "/portfolio-alien/static/js/2.b619dd07.chunk.js",
-    "static/js/2.b619dd07.chunk.js.map": "/portfolio-alien/static/js/2.b619dd07.chunk.js.map",
+    "static/js/2.cf6dddba.chunk.js": "/portfolio-alien/static/js/2.cf6dddba.chunk.js",
+    "static/js/2.cf6dddba.chunk.js.map": "/portfolio-alien/static/js/2.cf6dddba.chunk.js.map",
     "index.html": "/portfolio-alien/index.html",
-    "precache-manifest.4709bea34e12ba75ad4a72577e9c623b.js": "/portfolio-alien/precache-manifest.4709bea34e12ba75ad4a72577e9c623b.js",
+    "precache-manifest.6078ccb62a33d289a8e7e77df20f7b30.js": "/portfolio-alien/precache-manifest.6078ccb62a33d289a8e7e77df20f7b30.js",
     "service-worker.js": "/portfolio-alien/service-worker.js",
     "static/css/main.4499fbd1.chunk.css.map": "/portfolio-alien/static/css/main.4499fbd1.chunk.css.map",
-    "static/js/2.b619dd07.chunk.js.LICENSE.txt": "/portfolio-alien/static/js/2.b619dd07.chunk.js.LICENSE.txt",
+    "static/js/2.cf6dddba.chunk.js.LICENSE.txt": "/portfolio-alien/static/js/2.cf6dddba.chunk.js.LICENSE.txt",
+    "static/media/ca.png": "/portfolio-alien/static/media/ca.0e85a2ed.png",
     "static/media/ea.png": "/portfolio-alien/static/media/ea.93d6a956.png",
     "static/media/ma.png": "/portfolio-alien/static/media/ma.a54df30a.png",
     "static/media/index.scss": "/portfolio-alien/static/media/project-background-white.e9d445c3.svg",
     "static/media/pa.png": "/portfolio-alien/static/media/pa.c7a2ff95.png",
     "static/media/pc.png": "/portfolio-alien/static/media/pc.1b69cb1b.png",
-    "static/media/shipt.png": "/portfolio-alien/static/media/shipt.10fc77c2.png"
+    "static/media/vq.png": "/portfolio-alien/static/media/vq.ac02eb3a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4766f1d7.js",
-    "static/js/2.b619dd07.chunk.js",
+    "static/js/2.cf6dddba.chunk.js",
     "static/css/main.4499fbd1.chunk.css",
-    "static/js/main.d9868080.chunk.js"
+    "static/js/main.93e00b32.chunk.js"
   ]
 }
