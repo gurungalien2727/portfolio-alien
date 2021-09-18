@@ -20,6 +20,7 @@ const ProjectCard = (props) => {
 
   return (
     <div className="project-card">
+       <img alt="project" className="project-image" src={image} />
       <div className="project-background" />
       <div className="project-content">
         <h3>{title}</h3>
