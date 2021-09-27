@@ -11,7 +11,7 @@ export default [
   {
     title: "Chef It Up",
     description:
-      'Chef It Up is a cross platform recipe search based Mobile app that suggests the list of dishes to the user based on the ingredients user input; allows user to share post with image, ingredients and instructions to prepare certain dish and also get feedback from other users.',
+      'Chef It Up is a cross platform recipe search based Mobile app that suggests the list of dishes to the user based on the ingredient user input.It also allows user to share posts with images and recipes to prepare certain dish and users can comment on the posts.',
     skills: [
       "C#",
       "ASP.NET",
@@ -28,7 +28,7 @@ export default [
   {
     title: "Prevent Corona",
     description:
-      'Prevent Corona is a web application that allows patients with COVID-19 symptoms to register about their health status and view the number of people with COVID-19 symptoms in the area within the application This application also has an interactive Chabot to answer the users’ queries about the virus.',
+      'Prevent Corona is a web application that allows patients with COVID-19 symptoms to register about their health status and view the number of people with COVID-19 symptoms in the area within the application. This application also has an interactive Chabot to answer the users’ queries about the virus.',
     skills: [
       "React",
       "Node",
@@ -46,7 +46,7 @@ export default [
   {
     title: "Virtual Queue",
     description:
-      'Virtual Queue is an android application built to allocate the number to each customer upon entering the Geo-fence around the store and to help customer keep shop safely by keeping them in a virtual queue and eventually reduce the COVID-19 transmission.',
+      'Virtual Queue is an android application built to allocate the number to each customer upon entering the Geo-fence around the store and to help customers shop safely by keeping them in a virtual queue and eventually reduce the COVID-19 transmission.',
     skills: [
       "Java",
       "Android Studio",
@@ -62,7 +62,7 @@ export default [
   {
     title: "Covid-19 Map",
     description:
-      'Covid-19 Map is a web application to show the impact of corona virus all over the world with the map and also shows the table that consists of the countries and their cases.',
+      'Covid-19 Map is a web application that shows the impact of corona virus all over the world on the map. It also shows the statistics of the virus from all the countries around the world.',
     skills: [
       "HTML",
       "CSS",
@@ -80,7 +80,7 @@ export default [
   {
     title: "Ecommerce Website",
     description:
-     'Built an e-commerce web application where users could buy and sell products and also perform live search for products; added a scripted bot for users to provide information about the products.',
+     'Built an e-commerce web application where users could buy and sell products and also perform live search for products. Added a scripted bot for users to provide information about the products.',
     skills: ["HTML", "CSS", "Javascript", "JQuery", "Ajax", "PHP", "MYSQL"],
     image: ecomm,
     links: {

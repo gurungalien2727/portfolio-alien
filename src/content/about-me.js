@@ -11,7 +11,7 @@ export default [
   {
     input: "Alien.resume",
     return:
-      '"<a rel="noopener" href="https://drive.google.com/file/d/1QY9oQfInyTSPmTDrA1edVfgjwWcEsNK_/view" target="_blank">aliengurung.pdf</a>"',
+      '"<a rel="noopener" href="https://drive.google.com/file/d/1qAK-jgSdBQN0lCyPS2T5S_243XvXPk74/view?usp=sharing" target="_blank">aliengurung.pdf</a>"',
   },
   {
     input: "Alien.interests",
