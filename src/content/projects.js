@@ -91,7 +91,7 @@ export default [
   {
     title: "Platypus",
     description:
-      "Platypus is an android app for Data Scientists thats helps in outsourcing the task of labeling to crowd-oriented environments. This android app helps in presenting training data in simple manner to help users identify, classify, or otherwise comment on images, text, objects, and other presented entities.",
+      "Platypus is an android app for Data Scientists that helps in outsourcing the task of labeling to crowd-oriented environments. This android app helps in presenting training data in simple manner to help users identify, classify, or otherwise comment on images, text, objects, and other presented entities.",
     skills: [
       "Java",
       "Andriod Studio",
